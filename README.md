@@ -1,2 +1,2 @@
 # Java-git-project
-The project contains latest updates 
+Java Git Repo is a repository created during the start of project.
